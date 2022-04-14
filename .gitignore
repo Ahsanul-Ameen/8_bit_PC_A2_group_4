@@ -1,6 +1,4 @@
-/A2_group_4_Necessary_Content/a.out
-/A2_group_4_Necessary_Content/l.o
-/A2_group_4_Necessary_Content/lex.yy.c
-/A2_group_4_Necessary_Content/y.o
-/A2_group_4_Necessary_Content/y.tab.c
-/A2_group_4_Necessary_Content/y.tab.h
+*.out
+*.o
+*.yy.c
+*.tab.*
