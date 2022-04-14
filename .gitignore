@@ -1,4 +1,4 @@
-*.out
-*.o
-*.yy.c
-*.tab.*
+/A2_group_4_Necessary_Content/*.out
+/A2_group_4_Necessary_Content/*.o
+/A2_group_4_Necessary_Content/*.yy.c
+/A2_group_4_Necessary_Content/*.tab.*
